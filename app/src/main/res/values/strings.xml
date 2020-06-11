@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">My Garden</string>
+    <string name="title">ENTER MY GARDEN</string>
+    <string name="welcome">Welcome to your virtual garden!</string>
+    <string name="check">check how your plants are doing :)</string>
+    <string name="aloe">\nThe aloe vera plant is an easy, attractive succulent that makes for a great indoor companion. Aloe vera plants are useful, too, as the juice from their leaves can be used to relieve pain from scrapes and burns when applied topically.\n
+    \nAloe vera is a succulent plant species of the genus Aloe. The plant is stemless or very short-stemmed with thick, greenish, fleshy leaves that fan out from the plant’s central stem. The margin of the leaf is serrated with small teeth.\n
+    \n<b>HOW TO CARE FOR AN ALOE VERA PLANT</b>\n
+    \n• Place in bright, indirect sunlight or artificial light. A western or southern window is ideal. Aloe that are kept in low light often grow leggy.
+    \n• Aloe vera do best in temperatures between 55 and 80°F (13 and 27°C). The temperatures of most homes and apartment are ideal.
+From May to September, you can bring your plant outdoors without any problems, but do bring it back inside in the evening if nights are cold.
+    \n• Water aloe vera plants deeply, but infrequently. To discourage rot, allow the soil to dry at least 1 to 2 inches deep between waterings. Don’t let your plant sit in water.
+    \n• Water about every 3 weeks and even more sparingly during the winter. Use your finger to test dryness before watering. If the potting mix stays wet, the plants’ roots can begin to rot.
+    \n• Fertilize sparingly (no more than once a month), and only in the spring and summer with a balanced houseplant formula mixed at ½ strength.
+    </string>
+    <string name="spider">\nSpider plants produce a rosette of long, thin, arched foliage that is solid green or variegated with white. These easy-to-grow houseplants look especially nice in a hanging basket and were a favorite in Victorian-era households.\n
+    \nDuring the summer, spider plants may produce tiny white flowers on long stems, as well as baby spider plants (offsets) called “pups.” The pups look like tiny spiders, hence the plant’s name!\n
+    \nSpider plants were once highlighted by NASA for their reported air-purifying ability, though a large amount of plants would be required to reap any benefits in the home. Nonetheless, they are a classic and attractive plant to add to your space.\n
+    \n<b>HOW TO CARE FOR A SPIDER PLANT</b>\n
+    \n• During initial growth, water occasionally; once fully developed (within one year), water moderately.
+    \n• In the spring and summer months, keep the soil moist to encourage growth. Do not let soil dry out too much.
+    \n• Maintain average room temperature and humidity. Spider plants prefer temperatures between 55 and 80°F (13–27°C), which makes them a great indoor houseplant.
+    \n• Fertilize up to twice a month in the spring and summer, however, avoid overfertilization.</string>
+    <string name="snake">\nSnake plants, also known as Mother-in-Law’s Tongue and Sansevieria, are one of the easiest house plants to take care of. This succulent plant is very forgiving and perfect for beginners.\n
+    \nThese plants can be neglected for weeks at a time; yet, with their strappy leaves and architectural shape, they still look fresh. Additionally, they can survive low light levels, drought and have few insect problems.\n
+    \n<b>HOW TO CARE FOR A SNAKE PLANT</b>\n
+        \n• Let the soil dry between waterings.
+        \n• Water from the bottom of the pot, if possible. This encourage the roots to grow downward, helping to stabilize the thick, tall leaves.
+        \n• During the winter, water only about once a month.
+        \n• Wipe leaves with a damp cloth as needed to remove dust.
+        \n• In good conditions, snake plants are rapid growers and may need to be divided annually.
+        \n• Divide and repot in the spring. Cut out a section containing both leaves and roots and place in a pot with well-draining potting mix.
+        \n• If the plant is pot bound, it will flower occasionally. Fragrant, greenish-white flower clusters appear on tall spikes.
+</string>
+    <string name="cactus">\nA cactus is a great addition to the home thanks to its striking shape, size and flowers. Seeing as no cactus plant is the same, it’s a unique, decorative way to add interest to your living space, whether it’s on your windowsill or grouped together on a shelf.\n
+    \nNative to the Americas and typically found in areas subject to drought, cacti or cactuses are perfectly adapted to live in the intense heat and environment of the desert, which means they can most definitely survive the warm and dry conditions of a centrally heated home. It’s perfect for the less green-fingered as you only need to water moderately – in fact, it’s actually better to underwater than it is to overwater.\n
+    \n<b>HOW TO CARE FOR A CACTUS PLANT</b>\n
+    \n• If your container has drainage holes, water thoroughly once a week during active growth period. If your container does not have drainage holes, water sparingly to moisten soil but be sure water does not pool up at the bottom of container which can cause rotting. Allow soil to dry between waterings.
+    \n• Place plant in a brightly lit south facing window indoors or an area with bright, indirect light outdoors. Some plants can tolerate full sun, but must be gradually acclimated to prevent sunburn.  If the light source is inadequate, etiolation will occur and your plant will become leggy as it stretches out towards a light source.
+    \n• They like soil that is well aerated and fast draining. Perlite or pumice mixed with soil work well for this, or you can pick up cactus mix from your local nursery.
+    \n• Fertilize during growing season with a 10-10-10 fertilizer diluted to 1/4 strength each watering.
+    \n• Plants don’t like being moved around so much. You may repot a plant when it gets too big for its pot. It is best to use a towel when handling the plant so that you won’t hurt yourself with the spines in the process.
+    </string>
+    <string name="channel_name">name</string>
+    <string name="channel_description">description</string>
+    <string name="set">Set the watering time for</string>
+    <string name="info">Here you can find useful information about how to take care of your house plants to make sure they live a happy and long life. So, which of these plants would you like to know more about?</string>
+
+    <string name="time">Select frequency</string>
+    <string name="day">Select day</string>
+</resources>
